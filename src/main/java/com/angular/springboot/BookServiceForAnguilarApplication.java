@@ -14,7 +14,7 @@ import java.util.stream.Stream;
 @SpringBootApplication
 @RestController
 @CrossOrigin("http://localhost:4200")
-public class BookServiceForAnguilarApplication {
+public class BookServiceForAngularApplication {
 
 	public static void main(String[] args) {
 
