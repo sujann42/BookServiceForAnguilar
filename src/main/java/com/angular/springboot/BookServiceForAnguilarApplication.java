@@ -18,7 +18,7 @@ public class BookServiceForAngularApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(BookServiceForAnguilarApplication.class, args);
+		SpringApplication.run(BookServiceForAngularApplication.class, args);
 	}
 	@GetMapping("/findAllBooks")
 	public List<Book> getBooks(){
